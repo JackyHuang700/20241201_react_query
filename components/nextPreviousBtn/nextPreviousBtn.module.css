@@ -1,0 +1,4 @@
+.btn-style{
+ @apply border-2 border-solid border-white px-1.5 py-2 rounded-xl transition-all duration-300;
+ @apply hover:bg-white hover:bg-opacity-5;
+}
